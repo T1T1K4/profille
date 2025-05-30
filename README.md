@@ -1,18 +1,19 @@
-# tfe-portfolio  
-A mock portfolio built for a college assignment. That’s it.
+# Portfolio-1988692 
+Portfólio fictício desenvolvido como parte de uma atividade acadêmica. Apenas um exercício prático.
 
-## What's this?
-A fictional portfolio site with fake projects, placeholder blog posts, and a contact form. Just a Vue 3 learning project for a web development class. Basic setup. Built only with what was covered in class.
+## Descrição
+Este projeto simula um site de portfólio, com projetos inventados, posts de blog genéricos e um formulário de contato. Foi criado com o objetivo de praticar os conteúdos aprendidos em aula sobre Vue 3. Nenhuma funcionalidade além do que foi ensinado foi implementada.
 
-## Stack
+## Tecnologias utilizadas
 - Vue 3 (Composition API)  
 - Vue Router  
 - Tailwind CSS via CDN  
 - Vite
 
-## Run it
-Clone the repo and:
+## Como executar o projeto
+Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
-npm i    # Install dependencies
-npm run dev    # Start local dev server
+cd Portfolio-1988692
+npm install       # Instala as dependências
+npm run dev       # Inicia o servidor de desenvolvimento
