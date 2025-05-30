@@ -13,6 +13,11 @@ Este projeto simula um site de portfólio, com projetos inventados, posts de blo
 ## Como executar o projeto
 Siga os passos abaixo para rodar o projeto localmente:
 
+## IMG
+
+![image](https://github.com/user-attachments/assets/a9172b1a-9982-427d-8280-3b966059eff4)
+
+
 ```bash
 cd Portfolio-1988692
 npm install       # Instala as dependências
